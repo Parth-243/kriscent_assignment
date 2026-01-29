@@ -190,8 +190,8 @@ Documentation
 1. Clone the Repository
 
 ```text
-- git clone [https://github.com/soypremshandilya/kriscent_ml_assessment.git](https://github.com/soypremshandilya/kriscent_ml_assessment.git)
-cd kriscent_ml_assessment
+- git clone [https://github.com/Parth-243/kriscent_assignment.git](https://github.com/Parth-243/kriscent_assignment.git)
+cd kriscent_assessment
 ```
 
 2. Set Up Environment
