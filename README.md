@@ -20,7 +20,7 @@ Key focus areas:
 ## 🚀 Live Production API
 
 Swagger UI (Interactive Docs):  
-https://kriscent-fraud-api.onrender.com/docs
+https://kriscent-assignment-vxkh.onrender.com/docs
 
 Note:
 
